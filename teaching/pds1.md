@@ -175,4 +175,12 @@ Recursos da disciplina PDS-1 / UFMG.
 
 [Playlist completa (inclui vídeos de dúvidas que não foram listados acima)](https://www.youtube.com/watch?v=M4fIZBNC88E&list=PL_ClcqWHc8M-K0Q1AOpHCLzN_lKljdT1G&pp=gAQB)
 
+<BR>
 
+## Provas antigas
+
+[Prova 1](https://drive.google.com/file/d/1_gnY-Va-cGHtK3KGY8oPkMlrVycCTYSZ/view?usp=share_link)
+
+[Prova 2](https://drive.google.com/file/d/1LGc3nSvO2bAZ5hP4SPJ_Q1ISx_sOXnFA/view?usp=share_link)
+
+[Prova 3](https://drive.google.com/file/d/1VgzMy21KfBoiWvAsXA9FnHhNVj_7Dw8g/view?usp=share_link)
