@@ -149,12 +149,6 @@ Recursos da disciplina PDS-1 / UFMG.
 
 [Exercício de estruturas](https://www.youtube.com/watch?v=wX4JJp4LOJU&list=PL_ClcqWHc8M-K0Q1AOpHCLzN_lKljdT1G&index=59)
 
-[Execução do kit de desenvolvimento Allegro no Windows](https://www.youtube.com/watch?v=Jdgki2L0Ue8&list=PL_ClcqWHc8M-K0Q1AOpHCLzN_lKljdT1G&index=63)
-
-[Introdução à programação em Allegro](https://www.youtube.com/watch?v=NrsO89Er6ec&list=PL_ClcqWHc8M-K0Q1AOpHCLzN_lKljdT1G&index=64)
-
-[Início da programação de jogos em Allegro](https://www.youtube.com/watch?v=FhlHDtLTek0&list=PL_ClcqWHc8M-K0Q1AOpHCLzN_lKljdT1G&index=65)
-
 [Exercícios de revisão para a Prova 2](https://www.youtube.com/watch?v=mrmNK2NPtQU&list=PL_ClcqWHc8M-K0Q1AOpHCLzN_lKljdT1G&index=70)
 
 [Arquivos com dados numéricos](https://www.youtube.com/watch?v=L48F6BHJ5o4&list=PL_ClcqWHc8M-K0Q1AOpHCLzN_lKljdT1G&index=72)
@@ -184,3 +178,39 @@ Recursos da disciplina PDS-1 / UFMG.
 [Prova 2](https://drive.google.com/file/d/1LGc3nSvO2bAZ5hP4SPJ_Q1ISx_sOXnFA/view?usp=share_link)
 
 [Prova 3](https://drive.google.com/file/d/1VgzMy21KfBoiWvAsXA9FnHhNVj_7Dw8g/view?usp=share_link)
+
+<BR>
+
+## TP Allegro
+
+[Tutorial de instalação](https://docs.google.com/document/d/1W6KCcpRKO2-3iEuoTFtMYqiB7INfVUjxjSo-p_pNtMg/edit?usp=sharing)
+
+[KIT_DEV_ALLEGRO - Windows](https://drive.google.com/file/d/1bS4PmLoJDCdo9AOkshg0aWm2FE7xg44K/view?usp=share_link)
+
+[KIT_SUPLEMENTAR - Linux e Mac](https://drive.google.com/file/d/19Jfn2W1-2ooCibaF852m3ebJUK8_MCFs/view?usp=share_link)
+
+[KIT_COMPLETO - Allegro + MingW + KIT_DEV_ALLEGRO](https://drive.google.com/file/d/19IiiJEr1gwf1yT5ODMnjzV2swbtAOz_U/view?usp=share_link)
+
+Videoaulas de Allegro:
+
+* [Execução do kit de desenvolvimento Allegro no Windows](https://www.youtube.com/watch?v=Jdgki2L0Ue8&list=PL_ClcqWHc8M-K0Q1AOpHCLzN_lKljdT1G&index=63)
+
+* [Introdução à programação em Allegro](https://www.youtube.com/watch?v=NrsO89Er6ec&list=PL_ClcqWHc8M-K0Q1AOpHCLzN_lKljdT1G&index=64)
+
+* [Início da programação de jogos em Allegro](https://www.youtube.com/watch?v=FhlHDtLTek0&list=PL_ClcqWHc8M-K0Q1AOpHCLzN_lKljdT1G&index=65)
+
+Códigos Allegro:
+
+* [Alguns TPs excepcionais](https://drive.google.com/file/d/1jC_hauDGNvV0QaWCLFJ7BD8RR9xWOElk/view?usp=share_link)
+
+* [Códigos dos TPs dos semestres anteriores](https://drive.google.com/file/d/19vCVPYosxNxcKY9X_rokB2ml9QiCut61/view?usp=share_link)
+
+[Exemplos de documentações](https://drive.google.com/file/d/1KPl5y2DVEZqTW-Rrhor5SFhGLffGOJ0r/view?usp=share_link)
+
+
+
+
+
+
+
+
