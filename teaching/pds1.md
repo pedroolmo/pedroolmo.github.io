@@ -173,11 +173,11 @@ Recursos da disciplina PDS-1 / UFMG.
 
 ## Provas antigas
 
-[Prova 1](https://drive.google.com/file/d/1_gnY-Va-cGHtK3KGY8oPkMlrVycCTYSZ/view?usp=share_link)
+[Prova 1](https://drive.google.com/drive/folders/1y8tcxxrpitfgdkqFOcgwJibrQsjQTTEw?usp=share_link)
 
-[Prova 2](https://drive.google.com/file/d/1LGc3nSvO2bAZ5hP4SPJ_Q1ISx_sOXnFA/view?usp=share_link)
+[Prova 2](https://drive.google.com/drive/folders/1lNcyR6M0WKLAHZrTlm8MOB23fWm5z3h9?usp=share_link)
 
-[Prova 3](https://drive.google.com/file/d/1VgzMy21KfBoiWvAsXA9FnHhNVj_7Dw8g/view?usp=share_link)
+[Prova 3](https://drive.google.com/drive/folders/1Y6Kd457cO5k8WwpIHzkb6OAVh_RMkoP_?usp=share_link)
 
 <BR>
 
@@ -206,11 +206,4 @@ Códigos Allegro:
 * [Códigos dos TPs dos semestres anteriores](https://drive.google.com/file/d/19vCVPYosxNxcKY9X_rokB2ml9QiCut61/view?usp=share_link)
 
 [Exemplos de documentações](https://drive.google.com/file/d/1KPl5y2DVEZqTW-Rrhor5SFhGLffGOJ0r/view?usp=share_link)
-
-
-
-
-
-
-
 
