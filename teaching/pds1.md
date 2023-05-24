@@ -171,6 +171,12 @@ Recursos da disciplina PDS-1 / UFMG.
 
 <BR>
 
+## Códigos feitos em sala
+
+[Semestre 2023-01](https://github.com/pedroolmo/pedroolmo.github.io/tree/main/teaching/code_pds1_2023_1)
+
+<BR>
+
 ## Provas antigas
 
 [Prova 1](https://drive.google.com/drive/folders/1y8tcxxrpitfgdkqFOcgwJibrQsjQTTEw?usp=share_link)
