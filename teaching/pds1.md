@@ -189,6 +189,8 @@ Recursos da disciplina PDS-1 / UFMG.
 
 ## TP Allegro
 
+[TP 2023/01](https://www.dropbox.com/s/ujyxuw7hhdopghg/TP_2023_01.zip?dl=0)
+
 [Tutorial de instalação](https://docs.google.com/document/d/1W6KCcpRKO2-3iEuoTFtMYqiB7INfVUjxjSo-p_pNtMg/edit?usp=sharing)
 
 [KIT_DEV_ALLEGRO - Windows](https://drive.google.com/file/d/1bS4PmLoJDCdo9AOkshg0aWm2FE7xg44K/view?usp=share_link)
