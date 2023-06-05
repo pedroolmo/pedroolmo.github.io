@@ -1,0 +1,37 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 164C-1D7F
+
+ Directory of C:\Users\pedro\OneDrive\Documents\GitHub\pedroolmo.github.io\teaching\code_pds1_2023_1
+
+06/05/2023  06:23 PM    <DIR>          .
+05/30/2023  11:20 AM    <DIR>          ..
+06/05/2023  05:58 PM            41,536 a.exe
+05/17/2023  05:03 PM               940 adicionais.c
+06/05/2023  06:23 PM                 0 arquivos.txt
+06/05/2023  06:05 PM               522 arq_num.c
+05/03/2023  06:25 PM               536 aula_strings.c
+03/29/2023  06:16 PM               355 banco.c
+03/29/2023  06:18 PM               137 banco.h
+04/10/2023  05:06 PM             1,177 banco_ponteiros.c
+05/03/2023  05:07 PM               509 comandofor.c
+05/22/2023  05:36 PM               401 condicionais.c
+05/08/2023  05:45 PM               461 cripto.c
+05/17/2023  05:03 PM               293 elseif.c
+04/17/2023  06:27 PM             1,693 eq2grau.c
+03/29/2023  06:11 PM               196 laranjas.c
+06/05/2023  06:03 PM                61 matriz1.txt
+06/05/2023  05:27 PM                43 matriz2.dat
+04/10/2023  05:07 PM                 0 operadores.c
+04/05/2023  06:00 PM               509 ponteiros.c
+05/10/2023  05:10 PM               482 random.c
+04/25/2023  11:16 AM               624 revisao1.c
+05/30/2023  11:38 AM             1,789 revisao2.c
+05/15/2023  06:23 PM             1,405 roladados.c
+05/10/2023  06:04 PM             1,283 simulaloja.c
+05/17/2023  06:21 PM             1,835 structs.c
+05/10/2023  06:34 PM               200 teste.c
+03/27/2023  06:00 PM               321 tipodados.c
+04/05/2023  05:10 PM               274 tipos.c
+03/29/2023  06:20 PM               644 variaveis.c
+              28 File(s)         58,226 bytes
+               2 Dir(s)  428,214,247,424 bytes free
