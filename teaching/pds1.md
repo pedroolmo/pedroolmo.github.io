@@ -2,6 +2,8 @@
 
 Recursos da disciplina PDS-1 / UFMG.
 
+Prof: Pedro Olmo Stancioli Vaz de Melo
+
 <BR>
 
 ## Slides
