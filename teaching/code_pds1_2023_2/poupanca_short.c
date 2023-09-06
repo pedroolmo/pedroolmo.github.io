@@ -1,27 +1,9 @@
 #include <stdio.h>
-
-float poupanca = 10;
-
-float rendimentosMensais(float poupanca, float juros) {
-	float aux = poupanca + ((juros/100.0) * poupanca) - 0.50;
-	return aux;	
-}
-
-float deposito(float conta, float valor) {
-	printf("\npoupanca no deposito: %f", poupanca);
-	return conta + valor - 0.20;
-}
-
-float retirada(float conta, float valor) {
-	return conta - valor;
-}
-
-
+#include "banco.h"
 
 void main() {
 	//declaração e atribuição ao mesmo tempo:
-	
-	printf("\npoupanca global: %f", poupanca);
+
 	
 	float poupanca = 500, juros = 0.85;	
 	
