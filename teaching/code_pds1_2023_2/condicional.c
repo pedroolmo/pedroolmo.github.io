@@ -3,30 +3,56 @@
 
 void main() {
 	
+
+	/*
+< 18,5 - Abaixo do peso
+
+18,5-24,9 - Normal
+
+25,0-29,9 - Excesso de peso
+
+if(25 <= x < 30) x
+if(x >= 25 && x < 30) { ... }
+
+
+30,0-34,9 - Obesidade Leve (Grau I)
+
+35,0-39,9 - Obesidade Severa (Grau II)
+
+> 40,0 - Obesidade Mórbida (Grau III)
+	*/
+
+	
 	//leitura dinamica de dados
 	float peso1=0, altura1=0;
-	float peso2=0, altura2=0;
-	
-	//peso = 50;
-	//altura = 1.6;
-	
-	
+
 	printf("Digite o peso e a altura, nessa ordem:\n");
 	scanf("%f%f", &peso1, &altura1);
 	
+	printf("\npeso e altura: %f %f", peso1, altura1);
+	
+	if(!(peso1 > 0 && altura1 > 0)) {	
+		printf("\nValores invalidos!");
+	}
+	
+	else {
+		float imc = peso1/(altura1*altura1);
+		printf("\nIMC: %.2f", imc);
 
-	
-	float imc1 = peso1/(altura1*altura1);
-	
-	fflush(stdin);
-	
-	scanf("%f %f", &peso2, &altura2);
-	
-	float imc2 = peso2/(altura2*altura2);
-	
-	
-	printf("\nIMC da pessoa 1: %.2f", imc1);
-	printf("\nIMC da pessoa 2: %.2f", imc2);	
+		if(imc < 18.5)
+			printf("\nAbaixo do peso");
+		else if(imc < 25)
+			printf("\nNormal");
+		else if(imc < 30)
+			printf("\nExcesso de peso");
+		else if(imc < 35)
+			printf("\n Obesidade Leve (Grau I)");
+		else if(imc < 40)
+			printf("\nObesidade Severa (Grau II)");
+		else 
+			printf("\nObesidade Mórbida (Grau III)");
+		
+	}
 	
 	
 }
