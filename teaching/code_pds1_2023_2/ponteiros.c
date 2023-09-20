@@ -7,6 +7,7 @@ void swap_naive(int a, int b) {
 	a = b;
 	b = aux;
 	
+	return a;
 	
 }
 
@@ -16,8 +17,6 @@ void swap(int *a, int *b) {
 	
 	*a = *b;
 	*b = aux;
-	
-
 	
 }
 
@@ -36,6 +35,7 @@ void main() {
 	
 	swap_naive(a, b);
 	printf("\na = %d, b = %d", a, b);
+	
 	
 	swap(&a, &b);
 	//zeraVariaveis(&a, &b);
