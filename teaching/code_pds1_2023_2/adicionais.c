@@ -39,7 +39,7 @@ int main() {
 	int maiorA=0, maiorB=0;
 	
 	for(a=A; a<B; a++){
-		for(b=a+1; b<=B; b++) {
+		for(b=a; b<=B; b++) {
 			if(MDC(a, b) > maiorMDC) {
 				maiorMDC = MDC(a, b);
 				maiorA = a;
