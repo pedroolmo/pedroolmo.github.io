@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <math.h>
 
 void ordenaDois(float *end1, float *end2) {
 	
@@ -35,7 +36,7 @@ void imprimeSeqDiv(int qtd, int t, int n) {
 	for(i=0;i<t;i++){
 		q= (qtd+sobra)/n;
 		sobra=(qtd+sobra)%n;
-		printf("%d: %d",i+1,q);
+		printf("%d: %d\n",i+1,q);
 	}
 }
 
@@ -52,7 +53,7 @@ void main() {
 	float qtd, t, n;
 	do {
 		scanf("%f %f %f", &qtd, &t, &n);
-	} while(parteFrac(qtd,6) || parteFrac(t,6) || parteFrac(n,6));
+	} while(pFrac(qtd,6) || pFrac(t,6) || pFrac(n,6));
 	ordenaTres(&n, &t, &qtd);
 	imprimeSeqDiv(qtd, t, n);
 }
