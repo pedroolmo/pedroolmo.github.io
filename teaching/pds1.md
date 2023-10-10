@@ -177,6 +177,8 @@ Prof: Pedro Olmo Stancioli Vaz de Melo
 
 [Semestre 2023-01](https://github.com/pedroolmo/pedroolmo.github.io/tree/main/teaching/code_pds1_2023_1)
 
+[Semestre 2023-02](https://github.com/pedroolmo/pedroolmo.github.io/tree/main/teaching/code_pds1_2023_2)
+
 <BR>
 
 ## Provas antigas
