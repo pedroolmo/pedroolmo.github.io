@@ -9,6 +9,11 @@ float geraPreco(float min, float max) {
 
 
 //gera um numero FLOAT entre min e max
+float randf2(int min, int max) {
+	return randInt(min, max-1) + randf();
+}
+
+//gera um numero FLOAT entre min e max
 float randf2(float min, float max) {
 	return randf()*(max - min) + min;
 }
