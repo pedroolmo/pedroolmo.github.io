@@ -60,7 +60,7 @@ void main() {
 		float preco_prod = precos[cod_prod];
 		faturamento += preco_prod;
 		
-		printf("\n%2d %2d %6.2f", i, cod_prod, preco_prod);
+		printf("\n%5d %5d %6.2f", i, cod_prod, preco_prod);
 		
 		//faturamento += precos[compras[i]];
 		
