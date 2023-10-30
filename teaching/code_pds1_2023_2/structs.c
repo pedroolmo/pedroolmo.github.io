@@ -114,6 +114,7 @@ int colisaoCilindros(Cilindro c1, Cilindro c2) {
 int main() {
 	
 	Cilindro cilindros[MAX_CILINDROS];
+	
 	int i, j, count=0;
 	float volumeTotal = 0;
 	while(count < MAX_CILINDROS) {
