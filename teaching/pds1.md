@@ -193,7 +193,10 @@ Prof: Pedro Olmo Stancioli Vaz de Melo
 
 ## TP Allegro
 
-[TP 2023/01](https://www.dropbox.com/s/ujyxuw7hhdopghg/TP_2023_01.zip?dl=0)
+
+[KIT DEV ALLEGRO + TP 2023/02](https://github.com/pedroolmo/pedroolmo.github.io/blob/main/teaching/KIT_ALLEGRO/2023_02_KIT_DEV_ALLEGRO.zip)
+
+[KIT_DEV_ALLEGRO + TP 2023/01](https://www.dropbox.com/s/ujyxuw7hhdopghg/TP_2023_01.zip?dl=0)
 
 [Tutorial de instalação](https://docs.google.com/document/d/1W6KCcpRKO2-3iEuoTFtMYqiB7INfVUjxjSo-p_pNtMg/edit?usp=sharing)
 
