@@ -1,0 +1,4 @@
+4,Stannis Baratheon, 8.5, 4.8
+55,Luke Skywalker, 7.5, 6.1
+17,Maria Capitolina, 5.0, 4.4
+23,Michael Jordan, 9.0, 9.0

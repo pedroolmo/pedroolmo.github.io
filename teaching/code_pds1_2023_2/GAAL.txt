@@ -1,0 +1,7 @@
+2,Ahmad Jamal, 8.5, 4.8
+13,Luis Inacio, 7.5, 6.1
+15,Charles de Gaulle, 5.0, 4.4
+21,Valeska Popozuda, 9.0, 9.0
+987687,Pedro Olmo Stancioli Vaz de Melo, 8.0, 5.0
+0,Tupac Shakur, 4.4, 3.8
+123,Pedro Olmo,10.00,10.00
