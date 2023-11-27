@@ -1,5 +1,22 @@
 #include <stdio.h>
 
+
+int menorElemento(int v[], int n) {
+	if(n == 1)
+		return v[0];
+	
+	int ultimo = v[n-1];
+	int menor_do_resto = menorElemento(v, n-1);
+	
+	if(ultimo < menor_do_resto)
+		return ultimo;
+	return menor_do_resto;
+	
+}
+
+
+
+
 int count_fib = 0;
 
 
