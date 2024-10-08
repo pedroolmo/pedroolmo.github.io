@@ -6,7 +6,45 @@ Feel free to contact me for resources (pdf, code etc) not linked in this page.
 
 ### **International papers**
 
+
+### 2024
+
+* França, Celso; Lima, Rennan C.; Andrade, Claudio; Cunha, Washington; De Melo, Pedro O.S. Vaz; Ribeiro-Neto, Berthier; Rocha, Leonardo; Santos, Rodrygo L.T.; Pagano, Adriana Silvina; Gonçalves, Marcos André. On Representation Learning-Based Methods for Effective, Efficient, and Scalable Code Retrieval. **Neurocomputing**. v.600, p.128172, 2024.
+  \[[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:elNKBnr3D_UJ:scholar.google.com/&output=citation&scisdr=ClEKpxbQELbN00tOAKk:AFWwaeYAAAAAZvxIGKn-6bUepUOI0lRenEkB2sc&scisig=AFWwaeYAAAAAZvxIGNvNYNejC8f_OwmIICfx6Q8&scisf=4&ct=citation&cd=-1&hl=pt-BR)\]\[[pdf](https://www.sciencedirect.com/science/article/abs/pii/S0925231224009433)\]  
+
+* Alves, Rodrigo; Ledent, Antoine; Assunção, Renato; Vaz-De-Melo, Pedro; Kloft, Marius. Unraveling the Dynamics of Stable and Curious Audiences in Web Systems. In: **WWW '24: The ACM Web Conference 2024**, Singapore. **Proceedings of the ACM on Web Conference 2024**, New York: ACM, 2024, p.2464.
+  \[[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:Vh2FDZd1vwcJ:scholar.google.com/&output=citation&scisdr=ClEKpxbQELbN00tOdLE:AFWwaeYAAAAAZvxIbLGEoM9HrFOMn8J6IGa0jUQ&scisig=AFWwaeYAAAAAZvxIbMnLVGZDSbykgfNDYL1LQio&scisf=4&ct=citation&cd=-1&hl=pt-BR)\]\[[pdf](https://dl.acm.org/doi/10.1145/3589334.3645473)\]  
+
+### 2023
+
+* Moreira, Túlio Marcondes; De Faria, Jackson Geraldo; Vaz-De-Melo, Pedro O.S.; Medeiros-Ribeiro, Gilberto. Development and Validation of an AI-Driven Model for the La Rance Tidal Barrage: A Generalisable Case Study. **Applied Energy**. v.332, p.120506, 2023.
+  \[[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:S3hMk_qAwF0J:scholar.google.com/&output=citation&scisdr=ClEKpxbQELbN00tOvQA:AFWwaeYAAAAAZvxIpQDLHAvxKlsYLFk-VgWa6y8&scisig=AFWwaeYAAAAAZvxIpbNbc7rkYBeXWNoTHriIwIc&scisf=4&ct=citation&cd=-1&hl=pt-BR)\]\[[pdf](https://arxiv.org/abs/2202.05347)\]  
+
+* Fernandes, Gustavo Lúcius; Vaz-De-Melo, Pedro O.S. Enhancing the Examination of Obstacles in an Automated Peer Review System. **International Journal on Digital Libraries (Print)**. v.1, p.1-24, 2023.
+  \[[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:4F-kjkl2lFEJ:scholar.google.com/&output=citation&scisdr=ClEKpxbQELbN00tO66A:AFWwaeYAAAAAZvxI86Aj7xkZ5DPvqjSP5jkXQaw&scisig=AFWwaeYAAAAAZvxI82jbNADCq-87UWl1G-YN694&scisf=4&ct=citation&cd=-1&hl=pt-BR)\]\[[pdf](https://link.springer.com/article/10.1007/s00799-023-00382-1)\]  
+
+
+
+* Freire, L.M.S.; Vaz-De-Melo, Pedro O.S. Field Depth Matters: Comparing the Valuation of Passes in Football. In: **Machine Learning and Data Mining for Sports Analytics**, 2023, Torino. **10th Workshop on Machine Learning and Data Mining for Sports Analytics**, 2023.
+  \[[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:4LxXKE-OiIkJ:scholar.google.com/&output=citation&scisdr=ClEKpxbQELbN00p-aiE:AFWwaeYAAAAAZv14ciFUbFEJ1BkOkoN9ezVnrJQ&scisig=AFWwaeYAAAAAZv14crQM9xk_jk-TgobpUCSzdV4&scisf=4&ct=citation&cd=-1&hl=pt-BR)\]\[[pdf](https://salabufmg.github.io/assets/pdf/papers/leomlsa23.pdf)\] 
+
+
+
+### 2022
  
+* De Oliveira, Lucas Santos; Vaz-De-Melo, Pedro O.S.; Viana, Aline Carneiro. Assessing Large-Scale Power Relations Among Locations from Mobility Data. **ACM Transactions on Knowledge Discovery from Data**. v.16, p.1-31, 2022.
+  \[[Bibtex](https://inria.hal.science/hal-03277191v1/bibtex)\]\[[pdf](https://inria.hal.science/hal-03277191)\] 
+
+* Moreira, Túlio Marcondes; Vaz-De-Melo, Pedro O.S.; Medeiros-Ribeiro, Gilberto. Control Optimisation Baselines for Tidal Range Structures—CoBaseTRS. **Software Impacts**. v.14, p.100356, 2022.
+  \[[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:ryMf1EWjAmAJ:scholar.google.com/&output=citation&scisdr=ClEKpxbQELbN00p-x2w:AFWwaeYAAAAAZv1432y_3DY6XauoBzpHgWYnZHM&scisig=AFWwaeYAAAAAZv1438nLDGVOJhOTApnaJ1wpYjo&scisf=4&ct=citation&cd=-1&hl=pt-BR)\]\[[pdf](https://www.softwareimpacts.com/article/S2665-9638(22)00070-7/fulltext)\] 
+
+* Moreira, Túlio Marcondes; De Faria, Jackson Geraldo; Vaz-De-Melo, Pedro O.S.; Chaimowicz, Luiz; Medeiros-Ribeiro, Gilberto. Prediction-Free, Real-Time Flexible Control of Tidal Lagoons Through Proximal Policy Optimisation: A Case Study for the Swansea Lagoon. **Ocean Engineering**. v.247, p.110657, 2022.
+
+* Domingues, Augusto C.S.A.; De Souza Santana, Henrique; Silva, Fabrício A.; Vaz-De-Melo, Pedro O.S.; Loureiro, Antonio A.F. SocialRoute: A Low-Cost Opportunistic Routing Strategy Based on Social Contacts. **Ad Hoc Networks**. v.1, p.102949, 2022.
+
+* Vieira, Carolina C.; Lohmann, Sophie; Zagheni, Emilio; Vaz-De-Melo, Pedro O.S.; Benevenuto, Fabrício; Ribeiro, Filipe N. The Interplay of Migration and Cultural Similarity Between Countries: Evidence from Facebook Data on Food and Drink Interests. **PLOS ONE**. v.17, p.e0262947, 2022. 
+
+* Fernandes, Gustavo Lúcius; Vaz-De-Melo, Pedro O.S. Between Acceptance and Rejection. In: **JCDL '22: The ACM/IEEE Joint Conference on Digital Libraries**, Cologne, Germany. **Proceedings of the 22nd ACM/IEEE Joint Conference on Digital Libraries**, New York: ACM, 2022, p.1.
 
 ### 2021
 
