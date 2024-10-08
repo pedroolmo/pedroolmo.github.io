@@ -10,6 +10,8 @@ Pedro O.S. Vaz de Melo is an associate professor in the Computer Science Departm
 
 ## Publications
 
+[Detailed List](https://pedroolmo.github.io/research/publications.html)
+
 [Google Scholar](https://scholar.google.com/citations?user=WjS15esAAAAJ&hl=en)
 
 <BR>

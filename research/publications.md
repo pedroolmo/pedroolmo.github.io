@@ -1,6 +1,6 @@
 ## Publications
 
-##### **updated: 04/06/2021**
+##### **updated: 07/10/2024**
 
 Feel free to contact me for resources (pdf, code etc) not linked in this page.
 
@@ -13,7 +13,8 @@ Feel free to contact me for resources (pdf, code etc) not linked in this page.
   \[[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:elNKBnr3D_UJ:scholar.google.com/&output=citation&scisdr=ClEKpxbQELbN00tOAKk:AFWwaeYAAAAAZvxIGKn-6bUepUOI0lRenEkB2sc&scisig=AFWwaeYAAAAAZvxIGNvNYNejC8f_OwmIICfx6Q8&scisf=4&ct=citation&cd=-1&hl=pt-BR)\]\[[pdf](https://www.sciencedirect.com/science/article/abs/pii/S0925231224009433)\]  
 
 * Alves, Rodrigo; Ledent, Antoine; Assunção, Renato; Vaz-De-Melo, Pedro; Kloft, Marius. Unraveling the Dynamics of Stable and Curious Audiences in Web Systems. In: **WWW '24: The ACM Web Conference 2024**, Singapore. **Proceedings of the ACM on Web Conference 2024**, New York: ACM, 2024, p.2464.
-  \[[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:Vh2FDZd1vwcJ:scholar.google.com/&output=citation&scisdr=ClEKpxbQELbN00tOdLE:AFWwaeYAAAAAZvxIbLGEoM9HrFOMn8J6IGa0jUQ&scisig=AFWwaeYAAAAAZvxIbMnLVGZDSbykgfNDYL1LQio&scisf=4&ct=citation&cd=-1&hl=pt-BR)\]\[[pdf](https://dl.acm.org/doi/10.1145/3589334.3645473)\]  
+  \[[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:Vh2FDZd1vwcJ:scholar.google.com/&output=citation&scisdr=ClEKpxbQELbN00tOdLE:AFWwaeYAAAAAZvxIbLGEoM9HrFOMn8J6IGa0jUQ&scisig=AFWwaeYAAAAAZvxIbMnLVGZDSbykgfNDYL1LQio&scisf=4&ct=citation&cd=-1&hl=pt-BR)\]\[[pdf](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjqjZ-Vpv-IAxXHqJUCHRi7MB4QFnoECBcQAQ&url=https%3A%2F%2Fink.library.smu.edu.sg%2Fcgi%2Fviewcontent.cgi%3Farticle%3D10304%26context%3Dsis_research&usg=AOvVaw2EMpzOYzoZVsew2GLHEvtZ&opi=89978449)\]\[[video](https://www.youtube.com/watch?v=NB2bpCxLUwU)\]  
+
 
 ### 2023
 
@@ -21,7 +22,7 @@ Feel free to contact me for resources (pdf, code etc) not linked in this page.
   \[[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:S3hMk_qAwF0J:scholar.google.com/&output=citation&scisdr=ClEKpxbQELbN00tOvQA:AFWwaeYAAAAAZvxIpQDLHAvxKlsYLFk-VgWa6y8&scisig=AFWwaeYAAAAAZvxIpbNbc7rkYBeXWNoTHriIwIc&scisf=4&ct=citation&cd=-1&hl=pt-BR)\]\[[pdf](https://arxiv.org/abs/2202.05347)\]  
 
 * Fernandes, Gustavo Lúcius; Vaz-De-Melo, Pedro O.S. Enhancing the Examination of Obstacles in an Automated Peer Review System. **International Journal on Digital Libraries (Print)**. v.1, p.1-24, 2023.
-  \[[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:4F-kjkl2lFEJ:scholar.google.com/&output=citation&scisdr=ClEKpxbQELbN00tO66A:AFWwaeYAAAAAZvxI86Aj7xkZ5DPvqjSP5jkXQaw&scisig=AFWwaeYAAAAAZvxI82jbNADCq-87UWl1G-YN694&scisf=4&ct=citation&cd=-1&hl=pt-BR)\]\[[pdf](https://link.springer.com/article/10.1007/s00799-023-00382-1)\]  
+  \[[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:4F-kjkl2lFEJ:scholar.google.com/&output=citation&scisdr=ClEKpxbQELbN00tO66A:AFWwaeYAAAAAZvxI86Aj7xkZ5DPvqjSP5jkXQaw&scisig=AFWwaeYAAAAAZvxI82jbNADCq-87UWl1G-YN694&scisf=4&ct=citation&cd=-1&hl=pt-BR)\]\[[pdf](https://link.springer.com/article/10.1007/s00799-023-00382-1)\] \[[code](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262947)\]  
 
 
 
@@ -39,19 +40,26 @@ Feel free to contact me for resources (pdf, code etc) not linked in this page.
   \[[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:ryMf1EWjAmAJ:scholar.google.com/&output=citation&scisdr=ClEKpxbQELbN00p-x2w:AFWwaeYAAAAAZv1432y_3DY6XauoBzpHgWYnZHM&scisig=AFWwaeYAAAAAZv1438nLDGVOJhOTApnaJ1wpYjo&scisf=4&ct=citation&cd=-1&hl=pt-BR)\]\[[pdf](https://www.softwareimpacts.com/article/S2665-9638(22)00070-7/fulltext)\] 
 
 * Moreira, Túlio Marcondes; De Faria, Jackson Geraldo; Vaz-De-Melo, Pedro O.S.; Chaimowicz, Luiz; Medeiros-Ribeiro, Gilberto. Prediction-Free, Real-Time Flexible Control of Tidal Lagoons Through Proximal Policy Optimisation: A Case Study for the Swansea Lagoon. **Ocean Engineering**. v.247, p.110657, 2022.
+  \[[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:GfCP01F6qbIJ:scholar.google.com/&output=citation&scisdr=ClEKpxbQELeH971vKvI:AFWwaeYAAAAAZwVpMvKFrtlmKuE0pNyOHrknJug&scisig=AFWwaeYAAAAAZwVpMrtF10-s-vaRZJyjdHq3e9E&scisf=4&ct=citation&cd=-1&hl=pt-BR)\]\[[pdf](https://arxiv.org/abs/2106.10360)\] 
 
 * Domingues, Augusto C.S.A.; De Souza Santana, Henrique; Silva, Fabrício A.; Vaz-De-Melo, Pedro O.S.; Loureiro, Antonio A.F. SocialRoute: A Low-Cost Opportunistic Routing Strategy Based on Social Contacts. **Ad Hoc Networks**. v.1, p.102949, 2022.
+  \[[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:US3Y5bRDZyUJ:scholar.google.com/&output=citation&scisdr=ClEKpxbQELeH971v5rQ:AFWwaeYAAAAAZwVp_rRKxuAr8egSEBUy6QPT5Ik&scisig=AFWwaeYAAAAAZwVp_h0JJihMXuz5MXmUH-6UkFE&scisf=4&ct=citation&cd=-1&hl=pt-BR)\]\[[pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4064776
+  )\] 
 
 * Vieira, Carolina C.; Lohmann, Sophie; Zagheni, Emilio; Vaz-De-Melo, Pedro O.S.; Benevenuto, Fabrício; Ribeiro, Filipe N. The Interplay of Migration and Cultural Similarity Between Countries: Evidence from Facebook Data on Food and Drink Interests. **PLOS ONE**. v.17, p.e0262947, 2022. 
+  \[[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:hh2f1p5ufqwJ:scholar.google.com/&output=citation&scisdr=ClEKpxbQELeH971sWTI:AFWwaeYAAAAAZwVqQTKaRxVCmquHkbx68kScCKE&scisig=AFWwaeYAAAAAZwVqQRpPxFXICYLNkEbVSLIX5wA&scisf=4&ct=citation&cd=-1&hl=pt-BR)\]\[[pdf](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262947)\] 
 
 * Fernandes, Gustavo Lúcius; Vaz-De-Melo, Pedro O.S. Between Acceptance and Rejection. In: **JCDL '22: The ACM/IEEE Joint Conference on Digital Libraries**, Cologne, Germany. **Proceedings of the 22nd ACM/IEEE Joint Conference on Digital Libraries**, New York: ACM, 2022, p.1.
+  \[[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:U3kkt7RIitMJ:scholar.google.com/&output=citation&scisdr=ClEKpxbQELeH971s6aI:AFWwaeYAAAAAZwVq8aI_8UOPaF7QSk9yJAzz5-4&scisig=AFWwaeYAAAAAZwVq8admAalB90wh6dIZeN99vqc&scisf=4&ct=citation&cd=-1&hl=pt-BR)\]\[[pdf](\[[code](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262947)\])\] \[[code](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262947)\] 
+
+
 
 ### 2021
 
 * J. Leão, A. Laender, and P. O. S. Vaz de Melo, “Overcoming Bias in Community Detection Evaluation,” Journal of Information and Data Management (**JIDM**), 2021\.  
   \[[Bibtex](https://web.archive.org/web/20220119073509/https://sol.sbc.org.br/index.php/sbbd/article/view/8804)\]\[[pdf](https://web.archive.org/web/20220119073509/https://periodicos.ufmg.br/index.php/jidm/article/view/24227/23245)\]  
 * Martins, K., Vaz-de-Melo, P. O., Santos, R. (2021, June). Why Do Document-Level Polarity Classifiers Fail?. In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (**NAACL**), 2021\.  
-  \[[Bibtex](https://web.archive.org/web/20220119073509/https://www.aclweb.org/anthology/2021.naacl-main.143.bib)\]\[[pdf](https://web.archive.org/web/20220119073509/https://www.aclweb.org/anthology/2021.naacl-main.143.pdf)\]
+  \[[Bibtex](https://web.archive.org/web/20220119073509/https://www.aclweb.org/anthology/2021.naacl-main.143.bib)\]\[[pdf](https://web.archive.org/web/20220119073509/https://www.aclweb.org/anthology/2021.naacl-main.143.pdf)\][[code](https://github.com/karenstemartins/NAACL2021)\]
 
 ### 2020
 
