@@ -17,7 +17,58 @@ void criaEvento(Evento *e) {
 	
 }
 
+void imprimeEvento(Evento e) {
+	printf("\n%d %d %d %d", e.tipo, e.x, e.y, e.tecla);
+	
+}
+
+void imprimeFila(Fila f) {
+	int i;
+	for(i=0; i<f.n; i++)
+		imprimeEvento(f.eventos[i]);
+	
+}
+
+
 void criaFila(Fila *f) {
 	f->n = 0;
 	//(*f).n = 0;
 }
+
+int adicionaEvento(Fila *f, Evento e) {
+	
+	if(f->n == MAX_TAM)
+		return 0;
+	(*f).eventos[f->n] = e;
+	f->n++;
+	return 1;
+	
+}
+
+Evento retiraEvento(Fila *f) {
+	Evento e;
+	if(f->n == 0) {
+		e.tipo = -1;
+		return e;
+	}
+	
+	e = f->eventos[0];
+	int i;
+	for(i=0; i<f->n; i++)
+		f->eventos[i] = f->eventos[i+1];
+	
+	f->n--;
+	return e;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
