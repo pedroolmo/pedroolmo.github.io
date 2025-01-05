@@ -200,7 +200,7 @@ Prof: Pedro Olmo Stancioli Vaz de Melo
 
 [Tutorial de instalação](https://docs.google.com/document/d/1W6KCcpRKO2-3iEuoTFtMYqiB7INfVUjxjSo-p_pNtMg/edit?usp=sharing)
 
-[KIT_DEV_ALLEGRO - Windows](https://drive.google.com/file/d/1bS4PmLoJDCdo9AOkshg0aWm2FE7xg44K/view?usp=share_link)
+[KIT_DEV_ALLEGRO - Windows](https://www.dropbox.com/scl/fi/q0ul5nkin0k3ao2fdlezg/KIT_DEV_ALLEGRO.zip?rlkey=fh90ayl3b9yozud6qc6iu7kro&st=lt1eyskr&dl=0)
 
 [KIT_SUPLEMENTAR - Linux e Mac](https://drive.google.com/file/d/19Jfn2W1-2ooCibaF852m3ebJUK8_MCFs/view?usp=share_link)
 
