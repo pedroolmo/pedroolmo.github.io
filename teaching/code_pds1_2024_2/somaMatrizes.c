@@ -34,10 +34,10 @@ int main() {
 		M2[MAXTAM][MAXTAM];
 		
 		
+
 	//leitura de dados das matrizes:
 	FILE *arq = fopen("matrizes.txt", "r");
 	
-
 	
 	if(arq == NULL) {
 		printf("\nArquivo nao encontrado!");
