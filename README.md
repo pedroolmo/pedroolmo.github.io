@@ -16,6 +16,11 @@ Pedro O.S. Vaz de Melo is an associate professor in the Computer Science Departm
 
 <BR>
 
+## Reviewer 
+
+[Short List](https://pedroolmo.github.io/research/reviewer_short.html)
+
+<BR>
 
 ## CV
 [Lattes](http://lattes.cnpq.br/3262926164579789)
@@ -25,6 +30,12 @@ Pedro O.S. Vaz de Melo is an associate professor in the Computer Science Departm
 ## Teaching
 
 [PDS-1](https://pedroolmo.github.io/teaching/pds1.html)
+
+Game Theory in Computer Science
+
+Deep Learning
+
+[Introduction to Data Science](https://icd-ufmg.github.io/)
 
 <BR>
 
