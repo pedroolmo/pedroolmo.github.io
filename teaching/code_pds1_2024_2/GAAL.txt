@@ -1,0 +1,7 @@
+2,Ahmad Jamal,8.50,4.80
+13,Luis Inacio,7.50,6.10
+15,Charles de Gaulle,0.00,0.00
+21,Valeska Popozuda,9.00,9.00
+987687,Pedro Olmo Stancioli Vaz de Melo,8.00,5.00
+0,Tupac Shakur,4.40,3.80
+123,Pedro Olmo,10.00,10.00
