@@ -1,20 +1,21 @@
 # Reviewer
 
 ## **Conference Program Committee Member:**
+
 | International Conferences | Edition |
 |-------------|---------|
 | COLING | 2024, 2025 |
-| ACM SIGKDD | 2019 – 2025 |
-| ICWSM | 2016 – 2025 |
-| AAAI | 2021 – 2025 |
-| SIAM SDM (senior member) | 2018 – 2025 |
-| ACM CIKM | 2020 – 2025 |
-| ACM WebSci (senior member) | 2019 – 2025 |
-| The Web Conference | 2022, 2023 |
-| ACM SIGAPP SAC (SONAMA) | 2014 – 2025 |
-| IEEE/WIC/ACM Web Intelligence (WI) | 2018 – 2024 |
-| IEEE ISCC | 2018 – 2021 |
-| SNAMS | 2017 – 2024 |
+ACM SIGKDD | 2019 – 2025 |
+ICWSM | 2016 – 2025 |
+AAAI | 2021 – 2025 |
+SIAM SDM (senior member) | 2018 – 2025 |
+ACM CIKM | 2020 – 2025 |
+ACM WebSci (senior member) | 2019 – 2025 |
+The Web Conference | 2022, 2023 |
+ACM SIGAPP SAC (SONAMA) | 2014 – 2025 |
+IEEE/WIC/ACM Web Intelligence (WI) | 2018 – 2024 |
+IEEE ISCC | 2018 – 2021 |
+SNAMS | 2017 – 2024 |
 
 | Brazilian Conferences | Edition |
 |-------------|---------|
