@@ -214,11 +214,13 @@ Videoaulas de Allegro:
 
 * [Início da programação de jogos em Allegro](https://www.youtube.com/watch?v=FhlHDtLTek0&list=PL_ClcqWHc8M-K0Q1AOpHCLzN_lKljdT1G&index=65)
 
+<!---
 Códigos Allegro:
 
-* [Alguns TPs excepcionais](https://drive.google.com/file/d/1jC_hauDGNvV0QaWCLFJ7BD8RR9xWOElk/view?usp=share_link)
+* [Alguns TPs excepcionais](https://drive.google.com/file/d/1jC_hauDGNvV0QaWCLFJ7BD8RR9xWOElk/view?usp=share_link))
 
-* [Códigos dos TPs dos semestres anteriores](https://drive.google.com/file/d/19vCVPYosxNxcKY9X_rokB2ml9QiCut61/view?usp=share_link)
+* [Códigos dos TPs dos semestres anteriores](https://drive.google.com/file/d/19vCVPYosxNxcKY9X_rokB2ml9QiCut61/view?usp=share_link))
+-->
 
 [Exemplos de documentações](https://drive.google.com/file/d/1KPl5y2DVEZqTW-Rrhor5SFhGLffGOJ0r/view?usp=share_link)
 
