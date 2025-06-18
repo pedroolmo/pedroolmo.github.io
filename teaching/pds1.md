@@ -206,6 +206,8 @@ Prof: Pedro Olmo Stancioli Vaz de Melo
 
 [KIT_COMPLETO - Allegro + MingW + KIT_DEV_ALLEGRO](https://drive.google.com/file/d/19IiiJEr1gwf1yT5ODMnjzV2swbtAOz_U/view?usp=share_link)
 
+[Guia de instalação no Raspberry Pi](https://docs.google.com/document/d/1nzYrIvkZVAUCXVTGeFtvW3dAd5W2eyXBDX0zKZ4pyg8/edit?usp=sharing)
+
 Videoaulas de Allegro:
 
 * [Execução do kit de desenvolvimento Allegro no Windows](https://www.youtube.com/watch?v=Jdgki2L0Ue8&list=PL_ClcqWHc8M-K0Q1AOpHCLzN_lKljdT1G&index=63)
