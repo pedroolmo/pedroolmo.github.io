@@ -22,6 +22,17 @@ void imprimeTriangulo(int i, int h) {
 	}
 }
 
+void imprimeTriangulo(int i, int h) {
+
+	imprimeAsteriscos(i);
+	if(i!=h) {
+		imprimeTriangulo(i+1, h);
+		imprimeAsteriscos(i);
+	}
+
+}
+
+
 int numAsts(int i, int h) {
 	if(i == h)
 		return h;
