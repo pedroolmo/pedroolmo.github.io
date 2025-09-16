@@ -10,5 +10,5 @@ int ehPar(int x) {
 int main() {
 	int a = 10;
 	printf("%d", ehPar(a));
-	return 0;
+	return 5;
 }
