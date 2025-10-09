@@ -9,6 +9,9 @@ int randint(int min, int max) {
 	return min + rand()%(max-min+1);
 }
 
+float randMoney(int min, int max) {
+	return randint(min*100, max*100)/100.0;
+}
 
 int main() {
 	
@@ -19,7 +22,7 @@ int main() {
 	//produtos e precos
 	int num_produtos = randint(1, MAX_PRODUTOS);
 	for(i=0; i<num_produtos; i++) {
-		precos[i] = randint(5, 100);
+		precos[i] = randMoney(5, 100);
 	}
 	
 	//clientes e compras
@@ -30,7 +33,7 @@ int main() {
 	
 	float faturamento = 0;
 	for(i=0; i<num_clientes; i++) {
-		printf("\n%3d %3d %.2f", 
+		printf("\n%3d %3d %.4f", 
 		       i, compras[i], precos[compras[i]]);
 		
 		/*int cliente = i;
