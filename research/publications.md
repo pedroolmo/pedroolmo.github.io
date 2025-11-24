@@ -9,10 +9,13 @@ Feel free to contact me for resources (pdf, code etc) not linked in this page.
 ### 2025
 
 * Vassoler, E. B.; & Vaz-de-Melo, P. O. An interpretable and probabilistic competitive balance metric for sports leagues. Journal of Quantitative Analysis in Sports, 2025.
-  \[[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:7ZnEbrROddoJ:scholar.google.com/&output=citation&scisdr=ChUQqgP0EJ-C-O1bGUE:ABGrvjIAAAAAaSRdAUEeeIsN9QiwRxNwr9wmmsE&scisig=ABGrvjIAAAAAaSRdARkLJic5lcCJ0cnooNZbGwc&scisf=4&ct=citation&cd=-1&hl=pt-BR)\]\[[pdf](https://www.vareto.com.br/papers/2025-cageo-dtl.pdf)\]\[[code]( https://github.com/Skill-and-Luck-Coefficients/turning_point)]\[[data](https://github.com/Skill-and-Luck-Coefficients/scrape_tournament_matches/tree/main/data)]  
+  \[[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:7ZnEbrROddoJ:scholar.google.com/&output=citation&scisdr=ChUQqgP0EJ-C-O1bGUE:ABGrvjIAAAAAaSRdAUEeeIsN9QiwRxNwr9wmmsE&scisig=ABGrvjIAAAAAaSRdARkLJic5lcCJ0cnooNZbGwc&scisf=4&ct=citation&cd=-1&hl=pt-BR)\]\[[pdf](https://github.com/pedroolmo/pedroolmo.github.io/blob/main/research/PDFs/An_Interpretable_and_Probabilistic_Competitive_Balance_Metric_for_Sports_Leagues.pdf)\]\[[code]( https://github.com/Skill-and-Luck-Coefficients/turning_point)]\[[data](https://github.com/Skill-and-Luck-Coefficients/scrape_tournament_matches/tree/main/data)]  
 
 * Vareto, R. H.; Szczerbacki, R.; Lima, L. A.; Vaz-de-Melo, P. O.; Schwartz, W. R. Distance Transform Loss: Boundary-aware segmentation of seismic data. **Computers & Geosciences**, 2025.
   \[[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:7ZnEbrROddoJ:scholar.google.com/&output=citation&scisdr=ChUQqgP0EJ-C-O1bGUE:ABGrvjIAAAAAaSRdAUEeeIsN9QiwRxNwr9wmmsE&scisig=ABGrvjIAAAAAaSRdARkLJic5lcCJ0cnooNZbGwc&scisf=4&ct=citation&cd=-1&hl=pt-BR)\]\[[pdf](https://www.vareto.com.br/papers/2025-cageo-dtl.pdf)\]\[[code](https://github.com/rafaelvareto/segmentation-loss)]  
+
+* Canguçu, Gabriel L. et al. A Principled Benchmark for Seismic Data Segmentation. **IEEE Transactions on Geoscience and Remote Sensing**, 2025.
+  \[[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:o-cODSFIyDwJ:scholar.google.com/&output=citation&scisdr=ChUQqgP0EJ-C-O1lz-g:ABGrvjIAAAAAaSRj1-jkbBxOOGLN8xnXheoOdLQ&scisig=ABGrvjIAAAAAaSRj192GgHbErGrCoUQ0Fwe_GGY&scisf=4&ct=citation&cd=-1&hl=pt-BR)\]\[[pdf](https://github.com/pedroolmo/pedroolmo.github.io/blob/main/research/PDFs/L1_Petrobras_GoDeep___Benchmark.pdf)\]\[[code]()]  
 
 ### 2024
 
