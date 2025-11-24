@@ -15,7 +15,7 @@ Feel free to contact me for resources (pdf, code etc) not linked in this page.
   \[[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:7ZnEbrROddoJ:scholar.google.com/&output=citation&scisdr=ChUQqgP0EJ-C-O1bGUE:ABGrvjIAAAAAaSRdAUEeeIsN9QiwRxNwr9wmmsE&scisig=ABGrvjIAAAAAaSRdARkLJic5lcCJ0cnooNZbGwc&scisf=4&ct=citation&cd=-1&hl=pt-BR)\]\[[pdf](https://www.vareto.com.br/papers/2025-cageo-dtl.pdf)\]\[[code](https://github.com/rafaelvareto/segmentation-loss)]  
 
 * Canguçu, Gabriel L. et al. A Principled Benchmark for Seismic Data Segmentation. **IEEE Transactions on Geoscience and Remote Sensing**, 2025.
-  \[[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:o-cODSFIyDwJ:scholar.google.com/&output=citation&scisdr=ChUQqgP0EJ-C-O1lz-g:ABGrvjIAAAAAaSRj1-jkbBxOOGLN8xnXheoOdLQ&scisig=ABGrvjIAAAAAaSRj192GgHbErGrCoUQ0Fwe_GGY&scisf=4&ct=citation&cd=-1&hl=pt-BR)\]\[[pdf](https://github.com/pedroolmo/pedroolmo.github.io/blob/main/research/PDFs/L1_Petrobras_GoDeep___Benchmark.pdf)\]\[[code]()]  
+  \[[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:o-cODSFIyDwJ:scholar.google.com/&output=citation&scisdr=ChUQqgP0EJ-C-O1lz-g:ABGrvjIAAAAAaSRj1-jkbBxOOGLN8xnXheoOdLQ&scisig=ABGrvjIAAAAAaSRj192GgHbErGrCoUQ0Fwe_GGY&scisf=4&ct=citation&cd=-1&hl=pt-BR)\]\[[pdf](https://github.com/pedroolmo/pedroolmo.github.io/blob/main/research/PDFs/L1_Petrobras_GoDeep___Benchmark.pdf)\]\[[code](https://github.com/uai-ufmg/seismic-segmentation-benchmark)]  
 
 ### 2024
 
