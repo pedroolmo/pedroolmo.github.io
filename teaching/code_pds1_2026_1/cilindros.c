@@ -4,7 +4,9 @@
 
 #define MAX_X 480
 #define MAX_Y 640
-#define NUM_PREDIOS 40
+#define NUM_PREDIOS 10
+#define MAX_RAIO 80
+#define MIN_RAIO 50
 
 typedef struct Ponto {
 	int x, y;
@@ -35,7 +37,7 @@ void imprimeCilindro(Cilindro c) {
 
 void preencheCilindro(Cilindro *c) {
 	(*c).altura = 1 + rand()%100;
-	c->base.raio = 1 + rand()%10;
+	c->base.raio = MIN_RAIO + rand()%(MAX_RAIO-MIN_RAIO+1);
 	c->base.centro.x = rand()%MAX_X;
 	(*c).base.centro.y = rand()%MAX_Y;	
 }
@@ -59,17 +61,35 @@ float dist(Ponto p1, Ponto p2) {
 	return sqrt(pow(p1.x-p2.x, 2) + pow(p1.y-p2.y, 2));
 }
 
+//retorna o indice do cilindro que teve colisao ou -1 se nao houver colisoes
+int colisaoCilindros(Cilindro novo, Cilindro predios[], int n) {
+	int i;
+	for(i=0; i<n; i++) {
+		if(dist(novo.base.centro, predios[i].base.centro) < 
+		   novo.base.raio + predios[i].base.raio)
+			return i;
+	}
+	return -1;
+}
+
 
 int main() {
 	
 	
 	Cilindro predios[NUM_PREDIOS];
-	int i;
+	int i, idxColisao;
 	float volumeTotal = 0;
 	for(i=0; i<NUM_PREDIOS; i++) {
 		preencheCilindro(&predios[i]);
 		//predios[i] = geraCilindro();
 		imprimeCilindro(predios[i]);
+		idxColisao = colisaoCilindros(predios[i], predios, i);
+		if(idxColisao >= 0) {
+			printf("\nColisao com:");
+			imprimeCilindro(predios[idxColisao]);
+			i--; //retrocede uma iteracao para gerar novamente o predios[i]
+			continue; //ignora as linhas seguintes (volumeTotal += ...)
+		}
 		volumeTotal += volumeCilindro(predios[i]);
 	}
 	
