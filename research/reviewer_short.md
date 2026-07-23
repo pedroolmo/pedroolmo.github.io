@@ -4,23 +4,26 @@
 
 | International Conferences | Edition |
 |-------------|---------|
-| COLING | 2024, 2025 |
-ACM SIGKDD | 2019 – 2025 |
-ICWSM | 2016 – 2025 |
-AAAI | 2021 – 2025 |
-SIAM SDM (senior member) | 2018 – 2025 |
-ACM CIKM | 2020 – 2025 |
-ACM WebSci (senior member) | 2019 – 2025 |
-The Web Conference | 2022, 2023 |
-ACM SIGAPP SAC (SONAMA) | 2014 – 2025 |
-IEEE/WIC/ACM Web Intelligence (WI) | 2018 – 2024 |
+COLING | 2024, 2025 |
+LREC | 2026 |
+ACM SIGKDD (Area Chair) | 2019 – 2027 |
+ICWSM (Senior Member) | 2016 – 2027 |
+AAAI | 2021 – 2027 |
+AAAI Alignment track (Senior Member) | 2026 |
+SIAM SDM (Senior Member) | 2018 – 2025 |
+ACM CIKM | 2020 – 2026 |
+ACM WebSci (Senior Member) | 2019 – 2026 |
+The Web Conference | 2022 - 2026 |
+ACM-AI-Summit | 2026
+ACM SIGAPP SAC (SONAMA) | 2014 – 2026 |
+IEEE/WIC/ACM Web Intelligence (WI) | 2018 – 2026 |
 IEEE ISCC | 2018 – 2021 |
 SNAMS | 2017 – 2024 |
 
 | Brazilian Conferences | Edition |
 |-------------|---------|
 SBRC | 2016 – 2023 | 
-Webmedia | 2016 – 2024 | 
+Webmedia | 2016 – 2026 | 
 Brasnam | 2013 – 2024  | 
 
 ## **Journal Reviewer:**
