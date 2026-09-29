@@ -1,10 +1,16 @@
 ## Publications
 
-##### **updated: 24/11/2025**
+##### **updated: 10/08/2026**
 
 Feel free to contact me for resources (pdf, code etc) not linked in this page.
 
 ### **International papers**
+
+### 2026
+
+* Marchetti,  João PL; Batista, João PF & Vaz-de-Melo, P. O. The Impact of Strength of Schedule Balance on Tournament Efficacy. International Sports Analytics Conference and Exhibition, 2026.
+  \[[Bibtex](https://citation-needed.springer.com/v2/references/10.1007/978-3-032-27272-0_18?format=bibtex&flavour=citation)\]\[[pdf](https://github.com/pedroolmo/pedroolmo.github.io/blob/main/research/PDFs/26_ISACE_ScheduleImbalance___Camera_Ready.pdf)\]\[[code and data]( https://github.com/JoaoFgds/soccer-scraper)] 
+
 
 ### 2025
 
