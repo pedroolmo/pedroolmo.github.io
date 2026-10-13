@@ -18,9 +18,24 @@ int nao_existe(int x, int v[], int n) {
 
 void ord_contagem(int v[]) {
 	int v_aux[TAM];
-	int i;
-	for(i=0; i<TAM; i++)
+	int pos[TAM];
+	int i,j;
+	for(i=0; i<TAM; i++) {
 		v_aux[i] = v[i];
+		pos[i] = 0;
+	}
+	
+	for(i=0; i<TAM; i++) {
+
+		for(j=0; j<TAM; j++) {
+			if(v_aux[j] < v_aux[i]) {
+				pos[i]++;
+			}
+		}
+		v[pos[i]] = v_aux[i];
+		
+	}
+	
 	
 	
 }
@@ -41,6 +56,12 @@ int main() {
 			i--;
 		}	
 	}
+	
+	ord_contagem(cheques);
+	
+	printf("\nVetor ordenado: ");
+	for(i=0; i<TAM; i++) 
+		printf("%d ", cheques[i]);
 	
 	
 return 0;
