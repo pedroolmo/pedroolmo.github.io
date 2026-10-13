@@ -16,6 +16,15 @@ int nao_existe(int x, int v[], int n) {
 	return 1;
 }
 
+void ord_contagem(int v[]) {
+	int v_aux[TAM];
+	int i;
+	for(i=0; i<TAM; i++)
+		v_aux[i] = v[i];
+	
+	
+}
+
 
 int main() {
 	
