@@ -3,6 +3,10 @@
 #include <math.h>
 #include <time.h>
 
+#define MIN_ALTURA 3
+#define MAX_ALTURA 20
+#define MAX_PREDIOS 12
+
 typedef int inteiro;
 
 
@@ -15,6 +19,11 @@ typedef struct Circulo {
 	float raio;
 	Ponto centro;
 } Circulo;
+
+typedef struct Cilindro {
+	Circulo base;
+	float altura;
+} Cilindro;
 
 
 
@@ -33,18 +42,29 @@ void geraCoord(Ponto *p) {
 }
 void geraCirculo(Circulo *c) {
 	c->raio = 1 + rand()%4;
+	//(*c).raio = 1 + rand()%4;
 	geraCoord(&c->centro);
 	
 	/*
 	c->centro.x = rand()%100;
 	c->centro.y = rand()%100;
 	*/
-	
+}
+
+void geraCilindro(Cilindro *c) {
+	c->altura = MIN_ALTURA + 
+				rand()%(MAX_ALTURA-MIN_ALTURA+1);
+	geraCirculo(&c->base);
 	
 }
 
+
 float areaCirculo(Circulo c) {
 	return M_PI * c.raio * c.raio;
+}
+
+float volumeCilindro(Cilindro c) {
+	return c.altura * areaCirculo(c.base);
 }
 
 
@@ -54,7 +74,13 @@ void imprimePonto(Ponto p) {
 
 void imprimeCirculo(Circulo c) {
 	printf("\nraio: %.2f", c.raio);
+	//printf("\n(%d %d)", c.centro.x, c.centro.y);
 	imprimePonto(c.centro);
+}
+
+void imprimeCilindro(Cilindro c) {
+	printf("\nAltura: %.2f", c.altura);
+	imprimeCirculo(c.base);
 }
 
 float dist(Ponto p1, Ponto p2) {
@@ -69,24 +95,71 @@ int colisaoCirculo(Circulo c1, Circulo c2) {
 	return 0;	
 }
 
+int colisaoPredios(Cilindro c, Cilindro predios[], int n) {
+	int i;
+	for(i=0; i<n; i++) {
+		if(colisaoCirculo(c.base, predios[i].base))
+			return 1;
+	}
+	return 0;
+}
+
 
 
 int main() {
 	
 	srand(time(NULL));
+	Cilindro predios[MAX_PREDIOS];
+	int n_predios = 1+rand()%MAX_PREDIOS;
+	int i;
+	int count_colisoes=0;
+	for(i=0; i<n_predios; i++) {
+		geraCilindro(&predios[i]);
+		imprimeCilindro(predios[i]);
+		if(colisaoPredios(predios[i], predios, i)) {
+			i--;
+			count_colisoes++;
+			printf("\nColidiu! %d", count_colisoes);
+		}
+		
+	}
 	
+	float volumeTotal = 0;
+	for(i=0; i<n_predios; i++) {
+		volumeTotal += volumeCilindro(predios[i]);	
+	}
+	
+	printf("\nVolume total: %.2f", volumeTotal);
+	
+	
+	
+	
+	
+/*	
 	Circulo c1, c2;
 	geraCirculo(&c1);
 	imprimeCirculo(c1);
 	geraCirculo(&c2);
 	imprimeCirculo(c2);
+
+
+	Cilindro c1, c2;
+	geraCilindro(&c1);
+	imprimeCilindro(c1);
+	geraCilindro(&c2);
+	imprimeCilindro(c2);
+
 	
-	if(colisaoCirculo(c1, c2) == 1) {
+	if(colisaoCirculo(c1.base, c2.base) == 1) {
 		printf("\nColisao!");
 	}
-	else
+	else {
 		printf("\nOk!");
-	
+		float v1 = volumeCilindro(c1);
+		float v2 = volumeCilindro(c2);
+		printf("\nDensidade: %.2f", v1+v2);
+	}
+*/	
 	
 /*
 	Ponto p1, p2;
