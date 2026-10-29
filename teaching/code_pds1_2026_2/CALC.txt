@@ -1,0 +1,5 @@
+4,Stannis Baratheon Silva,8.50,4.80
+55,Luke Skywalker,7.50,6.10
+17,Maria Capitolina,5.00,4.40
+23,Michael Jordan,10.00,10.00
+123,Pedro Olmo Stancioli,10.00,10.00
