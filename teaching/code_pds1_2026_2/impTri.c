@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
-lado = 2
+lado = 4
 altura = 5
 
 Tela:
@@ -19,7 +19,6 @@ Tela:
 */
 
 
-
 void impAst(int n) {
 	int i;
 	printf("\n");
@@ -28,9 +27,15 @@ void impAst(int n) {
 }
 
 
-
-
 void impTri(int i, int h) {
+	if(i == h)
+		impAst(i);
+	else {
+		impAst(i);
+		impTri(i+1, h);
+		
+	}
+	
 	
 }
 
